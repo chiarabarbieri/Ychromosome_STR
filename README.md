@@ -12,5 +12,6 @@ Analysis scripts: [commandSTRYch_Walser.r](https://github.com/chiarabarbieri/Ych
 - Huber LL, Arango-Isaza E, Sandoval JR, Urban M, Francalacci P, Calò C, Macholdt E, Stoneking M, Roewer L, Seidel M, Acosta O, Fujita R, Shimizu KK, Barbieri C. 2025. “Human Population History on the North Coast of Peru from Y Chromosomes and Mitogenomes.” Scientific Reports 15 (1): 27362. https://doi.org/10.1038/s41598-025-08241-6.  [Link](https://www.nature.com/articles/s41598-025-08241-6) 
 
 Analysis scripts: [commandSTRYch_NorthCoast_LH.r](https://github.com/chiarabarbieri/Ychromosome_STR/blob/main/commandSTRYch_NorthCoast_LH.r)
+
 Dataset with 23 STR markers: [Huber2025_IndividualINFO_NorthCoastPeru.csv](https://github.com/chiarabarbieri/Ychromosome_STR/blob/main/Huber2025_IndividualINFO_NorthCoastPeru.csv)
 
